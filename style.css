@@ -1,0 +1,59 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f6f8;
+    padding: 20px;
+}
+
+h1 {
+    text-align: center;
+}
+
+.subject {
+    background: white;
+    padding: 15px;
+    margin: 15px auto;
+    width: 70%;
+    border-radius: 8px;
+}
+
+ul {
+    list-style: none;
+    padding-left: 0;
+}
+
+li {
+    padding: 5px 0;
+}
+.easy {
+    color: green;
+    font-weight: bold;
+}
+
+.medium {
+    color: orange;
+    font-weight: bold;
+}
+
+.hard {
+    color: red;
+    font-weight: bold;
+}
+table {
+    margin-top: 20px;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th {
+    background-color: #222;
+    color: white;
+}
+
+td {
+    text-align: center;
+}
+progress {
+    width: 100%;
+    height: 25px;
+    margin-bottom: 15px;
+}
